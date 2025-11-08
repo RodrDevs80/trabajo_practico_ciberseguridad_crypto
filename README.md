@@ -272,10 +272,10 @@ Este proyecto está bajo la Licencia ISC - ver el archivo [LICENSE](LICENSE) par
 
 ## 👨‍💻 Grupo de trabajo
 
-**Alejandra Alaniz**--
-**Carlos E. Rodríguez**--
-**Thomas Luque Salgado**--
-**Alan Gabriel Pretel**--
+**Alejandra Alaniz** --
+**Carlos E. Rodríguez** --
+**Thomas Luque Salgado** --
+**Alan Gabriel Pretel**
 
 ---
 
